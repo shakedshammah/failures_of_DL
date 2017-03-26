@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-Faliures of Deep Learning
+[Faliures of Deep Learning](https://arxiv.org/abs/1703.07950)
 
 Shai Shalev-Shwartz, Ohad Shamir, Shaked Shammah
 

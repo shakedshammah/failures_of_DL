@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-[Faliures of Gradient-Based Deep Learning](https://arxiv.org/abs/1703.07950)
+[Failures of Gradient-Based Deep Learning](https://arxiv.org/abs/1703.07950)
 
 Shai Shalev-Shwartz, Ohad Shamir, Shaked Shammah
 
